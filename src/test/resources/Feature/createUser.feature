@@ -1,5 +1,5 @@
 @Regression
-Feature: createUser
+Feature: Create User
  Users should be able to create a new User
 
   Scenario: TC001 - SMOKE - New User
