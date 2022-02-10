@@ -148,5 +148,4 @@ public class Steps {
         Assert.assertEquals(text, dsl.obtainTextFromPopUp());
     }
 
-
 }
