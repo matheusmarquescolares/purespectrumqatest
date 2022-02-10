@@ -3,8 +3,6 @@ package core;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 
-import javax.print.DocFlavor;
-import java.sql.Driver;
 import static core.DriverFactory.getDriver;
 
 public class DSL {
